@@ -1,6 +1,6 @@
 # netflix_clone
 
-A new Flutter project.
+in this project we are trying to learn, bloc and providers, 
 
 ## Getting Started
 
